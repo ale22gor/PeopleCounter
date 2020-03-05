@@ -1,4 +1,4 @@
-#include "FindPersonСontour.h"
+#include "FindPersonContour.h"
 #include "center.h"
 
 using namespace cv;

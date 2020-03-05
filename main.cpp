@@ -8,7 +8,7 @@
 #include <opencv2/video.hpp>
 
 #include "FilterMovementFrame.h"
-#include "FindPersonСontour.h"
+#include "FindPersonContour.h"
 #include "CheckPeopleInOut.h"
 #include "center.h"
 #include "path.h"
